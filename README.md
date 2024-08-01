@@ -1,0 +1,1 @@
+# solar-degradation-analysis
